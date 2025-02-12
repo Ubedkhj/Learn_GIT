@@ -1,0 +1,2 @@
+git push and git pull
+git status, git log, git diff
